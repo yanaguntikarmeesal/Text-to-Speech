@@ -1,5 +1,15 @@
 # 🎙️ AI Vocalist — Text-to-Speech
 
+**Developed by:** **Yanaguntikar Meesal**
+
+
+**📧 Email:** **[yanaguntikarm@gmail.com](mailto:yanaguntikarm@gmail.com)**
+
+
+**🌐 Live Project:** [AI Vocalist — Text-to-Speech](https://text-to-speech-fvorbg3bmxyfrs7kpzppxu.streamlit.app/)
+
+
+
 A simple and user-friendly **Text-to-Speech (TTS) web application** built with **Python, Streamlit, and Google Text-to-Speech (gTTS)**.
 
 The application converts user-entered text into an **MP3 audio file** in multiple languages such as English, Hindi, Kannada, Spanish, French, German, Japanese, and Chinese.
